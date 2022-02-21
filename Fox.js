@@ -31,5 +31,5 @@
             this.height = height;
             this.width = width;
         }
-    }
+    } 
 //})();
