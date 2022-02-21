@@ -12,7 +12,7 @@
 
     class Fox {
         constructor(_furColor) {
-            this.furColor = _furColorw;
+            this.furColor = _furColor;
         }
 
         // Getter
