@@ -8,7 +8,7 @@
 // @grant        none
 // ==/UserScript==
 
-(function() {
+//(function() {
 
     class Fox {
         constructor(_furColor) {
@@ -31,5 +31,5 @@
             this.height = height;
             this.width = width;
   }
-}
-})();
+//}
+//})();
